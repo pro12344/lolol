@@ -1,5 +1,5 @@
 {
-    "name": "lolol",
+    "name": "Project",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -9,7 +9,8 @@
         "sevenseg": "*",
         "multiplayer": "*",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "darts": "*"
+        "darts": "*",
+        "controller": "*"
     },
     "files": [
         "main.blocks",
