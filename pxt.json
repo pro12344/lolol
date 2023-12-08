@@ -10,7 +10,8 @@
         "sevenseg": "*",
         "multiplayer": "*",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "darts": "*"
+        "darts": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
